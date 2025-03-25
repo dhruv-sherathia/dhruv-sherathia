@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruv-sherathia
-- 👀 I’m interested in **Software Development, DevOps, and Cloud Engineering!**
-- 🌱 I’m currently learning **Java, C#, JS, Node.js(express), Typescript
+- 👀 I’m interested in **Software Development and Cloud Engineering!**
+- 🌱 I’m currently learning **Java, C#, JS, Node.js(express)**
 - 🌩️ I am able to natively develop on AWS, GCP, and Azure**
 - 💞️ I’m looking to collaborate on Projects involving **[Software Development | Cloud Computing]**
 - 📫 How to reach me **https://www.linkedin.com/in/dhruvsherathia/**
